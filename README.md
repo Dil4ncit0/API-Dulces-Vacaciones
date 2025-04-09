@@ -25,3 +25,7 @@ Al implementar estas APIs, el proyecto:
 - Asegura una comunicación continua sin fronteras.
 
 Esta solución robusta y confiable es ideal para el **sector de alquiler turístico**, ofreciendo una experiencia más segura y transparente para todos los involucrados.
+
+## Link para ver la beta de la parte visual
+
+https://www.figma.com/proto/ukaO4ictAHX6EO0uyGzSKG/Untitled?node-id=1-3&p=f&t=dqQChUSy6iwE0Zej-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3
