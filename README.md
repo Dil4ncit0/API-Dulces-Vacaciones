@@ -16,7 +16,7 @@ Este proyecto integra las **APIs de Open Gateway** para el sector de alquiler de
 - **Device Status Roaming:**  
   Garantiza la **conectividad internacional**, manteniendo la comunicación sin importar el país en el que se encuentre el usuario.
 
-## Impacto 🌟
+## Caso de uso desarrollado 🌟
 
 Al implementar estas APIs, el proyecto:
 - Protege a los arrendatarios de accesos fraudulentos.
